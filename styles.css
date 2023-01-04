@@ -135,7 +135,7 @@ nav {
 }
 
 .food-1 {
-    background-image: url("/Images/cheesburger.jpg");
+    background-image: url("Images/cheesburger.jpg");
     background-size: cover;
     margin-top: -30px;
     -webkit-box-shadow: -3px 3px 23px 0px rgba(0,0,0,0.75);
